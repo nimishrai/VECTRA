@@ -388,13 +388,11 @@ We welcome contributions to VECTRA! Please follow these guidelines:
 
 ### Product Images
 
-*(Add images of the assembled vehicle, dashboard screenshots, and wiring diagrams)*
-
 #### Telemetry Dashboard
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](images/dashboard.png)
 
 #### Hardware Assembly
-![Hardware Assembly](images/product_image_1.jpg)
+![Hardware Assembly](images/Hardware.png)
 
 #### Schematics and Wiring Diagram
 ![Schematics and Wiring Diagram](images/schematic.png))
