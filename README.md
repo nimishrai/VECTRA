@@ -394,10 +394,10 @@ We welcome contributions to VECTRA! Please follow these guidelines:
 ![Dashboard Screenshot](images/dashboard_screenshot.png)
 
 #### Hardware Assembly
-![Hardware Assembly]([images/product_image_1.jpg])
+![Hardware Assembly](images/product_image_1.jpg)
 
-#### Wiring Diagram
-![Wiring Diagram](images/wiring_diagram.png)
+#### Schematics and Wiring Diagram
+![Schematics and Wiring Diagram](images/schematic.png))
 
 ---
 
