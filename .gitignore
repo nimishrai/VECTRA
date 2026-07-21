@@ -1,0 +1,41 @@
+# Arduino
+*.tmp
+*.log
+*.bak
+*.swp
+*~
+
+# Build outputs
+*.o
+*.a
+*.elf
+*.hex
+*.bin
+*.d
+
+# IDE specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# OS specific
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Project specific
+credentials.h
+secrets.h
+config.local.h
+
+# Dependencies
+libraries/
+
+# Large files
+*.pptx
+*.ppt
+*.pdf (if not documentation)
+*.zip
+*.tar.gz

@@ -1,0 +1,61 @@
+# VECTRA - Required Arduino Libraries
+
+# Install these libraries via Arduino IDE Library Manager
+# Sketch → Include Library → Manage Libraries
+
+## Core Libraries
+
+# PS5 Controller Library
+# For wireless PS5 DualSense controller integration
+# Repository: https://github.com/robtillart/arduino-PS5Controller
+ps5Controller
+
+# TinyGPSPlus Library
+# For GPS parsing and NMEA data processing
+# Repository: https://github.com/mikalhart/TinyGPSPlus
+TinyGPSPlus
+
+# MPU6050 Library
+# For MPU6500 IMU sensor communication (I2C)
+# Repository: https://github.com/jrowberg/i2cdevlib
+MPU6050
+
+# WebSockets Library
+# For WebSocket server implementation
+# Repository: https://github.com/Links2004/arduinoWebSockets
+WebSockets
+
+## Built-in Libraries (No installation required)
+
+# Wire - I2C communication (built-in)
+# WiFi - WiFi connectivity (built-in)
+# WebServer - HTTP server (built-in)
+
+## Installation Instructions
+
+1. Open Arduino IDE
+2. Go to Sketch → Include Library → Manage Libraries
+3. Search for each library name above
+4. Click "Install" for each library
+5. Accept any dependencies if prompted
+
+## Alternative Installation via Git
+
+# Clone libraries directly to Arduino libraries folder:
+# Windows: C:\Users\YourUsername\Documents\Arduino\libraries\
+# Mac: /Users/YourUsername/Documents/Arduino/libraries/
+# Linux: ~/Arduino/libraries/
+
+git clone https://github.com/robtillart/arduino-PS5Controller.git
+git clone https://github.com/mikalhart/TinyGPSPlus.git
+git clone https://github.com/jrowberg/i2cdevlib.git
+git clone https://github.com/Links2004/arduinoWebSockets.git
+
+## Version Compatibility
+
+- Arduino IDE: 2.0+
+- ESP32 Board Support: 2.0.11+
+- ps5Controller: 1.0.0+
+- TinyGPSPlus: 1.0.3+
+- MPU6050: 0.5.0+
+- WebSockets: 2.3.5+
