@@ -399,17 +399,10 @@ We welcome contributions to VECTRA! Please follow these guidelines:
 
 ---
 
-## 🏆 Achievements
-
-- **Electronic Design Carnival (EDC) Final Project** - IIIT Delhi
-- **First Place** - Hardware Innovation Category
-- **Best Telemetry Implementation** - Industry Recognition
-
----
 
 <div align="center">
 
-**Built with ❤️ by the VECTRA Team**
+**Built with ❤️ by the VECTRA Team (Nimish, Anurag, and Anshika)**
 
 *Transforming RC vehicles into intelligent, data-driven systems*
 
